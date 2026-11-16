@@ -21,8 +21,8 @@ Exploring the integration of **Model Checking and Natural Language Processing** 
 ### Connect With Me
 - [LinkedIn](https://linkedin.com/in/sj-zitha)
 - [Portfolio](https://sjz-portfolio.vercel.app)
-- [GitHub](https://github.com/simphiwe-jessica-zitha)
-- [Github](https://github.com/Z-5-6-2)
+- [GitHub - simphiwe-jessica-zitha](https://github.com/simphiwe-jessica-zitha)
+- [Github - Z-5-6-2](https://github.com/Z-5-6-2)
 
 ---
 *Building, and exploring new possibilities through technology.*
